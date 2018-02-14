@@ -15,7 +15,7 @@ Adding a line for rebasing example
 
 ## How to Contribute
 
-Please fork this repository and then issue Pull requests for review
+Please fork this repository and then issue Pull requests for review blah blah blah
 
 ### Copyright
 
