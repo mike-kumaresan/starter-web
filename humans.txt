@@ -4,6 +4,7 @@
 # TEAM
 	All my students
     Jason Taylor jason@git.training
+	Please leave a review if you like this course
 
 # THANKS
 
