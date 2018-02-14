@@ -15,3 +15,7 @@ This is a simple web project
 
 ## How to Contribute
 
+### Copyright
+
+2017 Git.Training
+
