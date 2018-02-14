@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-This is a simple web project
+Adding a line for rebasing example
 
 ## How to Contribute
 
